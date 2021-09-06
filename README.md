@@ -31,15 +31,15 @@
 ## 02 - Criar o banco de dados e preencher as configurações no arquivo .env
 <img src="./github/env-db.png">
 
-## 02 - Executar o comando **composer update** na pasta do projeto.
+## 03 - Executar o comando **composer update** na pasta do projeto.
 <img src="./github/composer-update.png">
 
-## 03 - Executar os testes da aplicação com o comando **php artisan test**.
+## 04 - Executar os testes da aplicação com o comando **php artisan test**.
 <img src="./github/tests.png">
 
-## 04 - Executar as migrations com o comando **php artisan migrate**.
+## 05 - Executar as migrations com o comando **php artisan migrate**.
 <img src="./github/migrations.png">
 
-## 05 - Rodar o projeto com o comando **php artisan serve** para visualização.
+## 06 - Rodar o projeto com o comando **php artisan serve** para visualização.
 
 <img src="./github/artisan-serve.png">
